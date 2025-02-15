@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
   <info>
-    <title>American Psychological Association 7th edition for JAMK assignments in English (no links or DOIs)</title>
+    <title>APA 7th edition (no links or DOIs for JAMK assignments in English )</title>
     <title-short>APA-JAMK-EN-NO-LINK</title-short>
     <id>apa-jamk-en-no-link</id>
     <link href="https://github.com/shiyuwang-jamk/apa-7-jamk-csl/blob/jamk-apa7/apa-jamk-en-no-link.csl" rel="self"/>
