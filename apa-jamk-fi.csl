@@ -4,11 +4,11 @@
     <title>American Psychological Association 7th edition for JAMK assignments in Finnish (Suomenkieliset tehtävät)</title>
     <title-short>APA-JAMK-FI</title-short>
     <id>apa-jamk-fi</id>
-    <link href="http://www.zotero.org/styles/apa" rel="self"/>
+    <link href="https://github.com/shiyuwang-jamk/apa-7-jamk-csl/blob/jamk-apa7/apa-jamk-fi.csl" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="template"/>
     <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>
     <link href="https://help.jamk.fi/raportointiohje/fi/7-kirjallisen-tehtavan-ulkoasu/7-2-ulkoasun-muotoiluasetukset" rel="jamk-ohje"/>
-    <link href="https://github.com/shiyuwang-jamk/apa-7-jamk-csl/blob/jamk-apa7/apa-jamk-fi.csl" rel="repo"/>
     <author>
       <name>Brenton M. Wiernik</name>
       <email>zotero@wiernik.org</email>
